@@ -1,4 +1,4 @@
-# 🏧 ATM Simulator in Python
+# ATM Simulator in Python
 
 A **Command-Line ATM Simulator** built using **Python and Object-Oriented Programming (OOP)**.
 This project simulates basic banking operations such as account creation, login authentication, deposits, withdrawals, balance checking, transaction history, and PIN management.
@@ -205,7 +205,7 @@ This project includes basic security mechanisms:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/SurendraMatsa/ATM-Simulator.git
+git clone https://github.com/SurendraMatsa/Python-mini-projects/tree/main/ATM%20Simulator
 ```
 
 ### 2. Navigate to project folder
@@ -276,3 +276,4 @@ Through this project, I learned:
 Python learner focused on building real-world projects and improving problem-solving skills.
 
 ---
+
